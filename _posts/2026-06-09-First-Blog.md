@@ -8,7 +8,7 @@ tags: [opencv, ai, machine-learning, computer-vision, onnx]
 
 ## OpenCV 5 at a Glance
 
-OpenCV 5 is the biggest update to the popular open-source computer vision library in years. The release modernizes the framework with a redesigned deep learning engine, improved hardware acceleration, expanded AI capabilities, and better support for modern machine learning workflows. :contentReference[oaicite:0]{index=0}
+OpenCV 5 is the biggest update to the popular open-source computer vision library in years. The release modernizes the framework with a redesigned deep learning engine, improved hardware acceleration, expanded AI capabilities, and better support for modern machine learning workflows.
 
 ### Key Highlights
 
@@ -18,12 +18,12 @@ OpenCV 5 is the biggest update to the popular open-source computer vision librar
 - **Improved Hardware Acceleration** across CPUs and emerging architectures, including ARM and RISC-V.
 - **Better 3D Vision Tools** with expanded camera calibration and 3D processing capabilities.
 - **Modernized API** with C++17 as the minimum standard and removal of legacy C APIs.
-- **Stronger Python Integration** and improved developer experience through better documentation and examples. :contentReference[oaicite:1]{index=1}
+- **Stronger Python Integration** and improved developer experience through better documentation and examples.
 
 ## Why It Matters
 
-OpenCV 5 positions itself as a modern computer vision and AI platform rather than just an image processing library. By improving deep learning support, hardware efficiency, and AI integration, it makes it easier for developers to build applications in robotics, industrial automation, AR/VR, medical imaging, and edge AI. :contentReference[oaicite:2]{index=2}
+OpenCV 5 positions itself as a modern computer vision and AI platform rather than just an image processing library. By improving deep learning support, hardware efficiency, and AI integration, it makes it easier for developers to build applications in robotics, industrial automation, AR/VR, medical imaging, and edge AI.
 
 ## Final Thoughts
 
-OpenCV 5 represents a major modernization effort, bringing the library in line with today's AI-driven workflows. Whether you're deploying ONNX models, building vision-language applications, or optimizing for edge devices, OpenCV 5 provides a stronger foundation for future computer vision development. :contentReference[oaicite:3]{index=3}
+OpenCV 5 represents a major modernization effort, bringing the library in line with today's AI-driven workflows. Whether you're deploying ONNX models, building vision-language applications, or optimizing for edge devices, OpenCV 5 provides a stronger foundation for future computer vision development.
