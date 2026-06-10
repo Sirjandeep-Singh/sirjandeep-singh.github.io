@@ -12,8 +12,8 @@ OpenCV 5 is the biggest update to the popular open-source computer vision librar
 
 ### Key Highlights
 
-- **New DNN Engine** with significantly improved performance and support for modern neural network architectures.
-- **Enhanced ONNX Support**, covering a much larger portion of the ONNX ecosystem for easier model deployment.
+- **New DNN Engine** with significantly improved performance and support for modern neural network architectures. The DNN (Deep Neural Network) engine is OpenCV's module for loading and running AI models, and it was redesigned to improve execution speed, memory efficiency, and support for newer neural network operators and architectures that older versions struggled to handle.
+- **Enhanced ONNX Support**, covering a much larger portion of the ONNX ecosystem for easier model deployment. ONNX (Open Neural Network Exchange) is a standard format that allows models trained in frameworks like PyTorch and TensorFlow to be deployed across different platforms, and OpenCV 5 expanded ONNX compatibility to reduce model conversion issues and enable more modern AI models to run directly inside OpenCV.
 - **Built-in LLM and Vision-Language Model (VLM) Support**, enabling integration with modern AI applications.
 - **Improved Hardware Acceleration** across CPUs and emerging architectures, including ARM and RISC-V.
 - **Better 3D Vision Tools** with expanded camera calibration and 3D processing capabilities.
